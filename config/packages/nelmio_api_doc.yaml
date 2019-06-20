@@ -1,0 +1,8 @@
+nelmio_api_doc:
+  documentation:
+    host: 127.0.0.1:8000
+    schemes: [http]
+    info:
+      title: Cats Breeds
+      description: Esta API será utilizada para realizar consultas na API TheCatApi, e armazenar o cache da consulta em banco de dados.
+      version: 1.0.0
