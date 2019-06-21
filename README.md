@@ -25,6 +25,8 @@ Database create and migration
   $ php bin/console doctrine:migrations:diff;
   
   $ php bin/console doctrine:migrations:migrate;
+  
+  Lembrando de ajustar as credenciais de acesso a base de dados, no arquivo .env, localizado na raiz do projeto.
 
 Use
 ==
