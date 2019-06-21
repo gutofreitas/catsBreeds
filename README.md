@@ -4,7 +4,7 @@ Esta API será utilizada para realizar consultas na API TheCatApi, e armazenar o
 
 Requisitos
 ==
-    PHP 7.1.3 or higher;
+    PHP 7.2.0 or higher;
     PDO-mysql PHP extension enabled;
     and the [usual Symfony application requirements][1].
 
